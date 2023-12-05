@@ -1,0 +1,243 @@
+* {
+    font-family: 'Alegreya Sans', sans-serif;
+    font-family: 'Alegreya', serif;
+}
+
+body {
+    margin: 0;
+}
+
+.clear {
+    clear: both;
+}
+
+
+.firstSection {
+    background-image: url("../images/drew-coffman-1872.jpg");
+    background-size: cover;
+}
+
+.navbar {
+    height: 90px;
+    padding: 10px 0;
+}
+
+.fixedWidth {
+    width: 80%;
+    margin: auto;
+}
+
+.navbar .filler {
+    width: 40%;
+    display: inline-block;
+}
+
+.navbar img {
+    display: inline-block;
+    width: 15%;
+}
+
+.navbar a {
+    display: inline-block;
+    text-decoration: none;
+    width: 7%;
+    background-color: transparent;
+    border: none;
+    color: #fff;
+    text-align: center;
+}
+
+.intro {
+    padding: 50px;
+    width: 50%;
+    margin: 70px auto;
+}
+
+.intro * {
+    text-align: center;
+    margin: auto;
+    margin: 30px auto;
+    padding: 20;
+    color: #fff;
+}
+
+.intro div a {
+    text-decoration: none;
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 30px;
+}
+
+.learn {
+    background-color: #8e7754;
+}
+
+.contact {
+    border: 2px solid #fff;
+}
+
+.elipse {
+    display: block;
+    height: 40px;
+    width: 1px;
+    margin: 35px auto;
+    border-radius: 25px;
+    border: 2px solid #fff;
+}
+
+.whoWeAre div {
+    padding-bottom: 20px;
+}
+
+.whoWeAre img {
+    width: 44%;
+}
+
+.whoWeAre .filler {
+    display: inline-block;
+    width: 5%;
+}
+
+.whoWeAre div {
+    width: 44%;
+    display: inline-block;
+}
+
+.whoWeAre div div img {
+    border: 1px solid #8e7754;
+    border-radius: 50%;
+    width: 15%;
+    display: inline-block;
+}
+
+.whoWeAre div div p {
+    width: 80%;
+    display: inline-block;
+}
+
+.greyBackground {
+    background-color: #F8F8F8;
+    padding: 50px 0;
+}
+
+.locationDescription {
+    display: inline-block;
+    width: 45%;
+    padding-bottom: 40px;
+    vertical-align: middle;
+}
+
+.greyBackground img {
+    width: 40%;
+    display: inline-block;
+}
+
+.greyBackground .filler {
+    display: inline-block;
+    width: 10%;
+}
+
+.secondSection {
+    padding: 50px 0;
+}
+
+.ourBaking {
+    text-align: center;
+}
+
+.card {
+    display: inline-block;
+    width: 33%;
+}
+
+.card img {
+    width: 100%;
+}
+
+.info {
+    width: 50%;
+    float: left;
+}
+
+.contact img {
+    width: 40%;
+    float: right;
+}
+
+.info img {
+    width: 5%;
+    background-color: #8e7754;
+    border-radius: 50%;
+    float: left;
+    margin-right: 2%;
+}
+
+.info p {
+    float: left;
+    width: 90%;
+    vertical-align: middle;
+}
+
+.darkBackground {
+    background-color: #403D38;
+}
+
+.miscellaneous .misc {
+    width: 25%;
+    color: #728B96;
+    float: left;
+}
+
+.misc h3 {
+    color: #fff;
+
+}
+
+.misc li {
+    border-bottom: 1px solid #45423D;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+}
+
+.details {
+    background-image: url("../images/contact-details-map.png");
+    background-size: cover;
+}
+
+.details img {
+    width: 10%;
+}
+
+.details p {
+    display: inline-block;
+    width: 85%;
+}
+
+.footer {
+    background-color: #353330;
+    padding: 50px;
+}
+
+.footer img {
+    width: 20%;
+    display: block;
+    margin: auto;
+}
+
+.footer p {
+    text-align: center;
+    font-size: larger;
+}
+
+.footer div {
+    width: 20%;
+    margin: auto;
+}
+
+.footer .social {
+    display: inline-block;
+    width: 24%;
+    background-color: #55524c;
+    border-radius: 50%;
+    margin: 0;
+}
